@@ -94,6 +94,9 @@ const FilterStatus = () => {
           <Button type="primary" icon={<ToolOutlined />}>
             Add Fountain
           </Button>
+          <button>
+            Test
+          </button>
           
           <Button type="primary" icon={<ToolOutlined />}>
             Schedule Maintenance
