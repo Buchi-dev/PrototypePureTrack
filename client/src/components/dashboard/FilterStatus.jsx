@@ -92,8 +92,13 @@ const FilterStatus = () => {
         <Title level={2}>Filter Status</Title>
         <Space>
           <Button type="primary" icon={<ToolOutlined />}>
+            Add Fountain
+          </Button>
+          
+          <Button type="primary" icon={<ToolOutlined />}>
             Schedule Maintenance
           </Button>
+
           <Button icon={<WarningOutlined />}>
             Report Issue
           </Button>
